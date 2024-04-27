@@ -26,8 +26,6 @@ Exec=[THE PATH OF THE .SH FILE]
 Hidden=false
 NoDisplay=false
 X-GNOME-Autostart-enabled=true
-Name[es_ES]=fortyminutes
 Name=fortyminutes
-Comment[es_ES]=
-Comment=
+Comment=Stand up every 40 minutes. Do it for your health!!
 ```
